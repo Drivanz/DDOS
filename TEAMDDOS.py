@@ -19,6 +19,8 @@ Pacotes = [
  codecs.decode('081e4dda', 'hex_codec'),
  codecs.decode('021efd40', 'hex_codec'),
  codecs.decode('081e7eda', 'hex_codec')]
+ 
+ 
 os.system("clear");
 print
 print "===================================================================="
